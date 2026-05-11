@@ -104,3 +104,5 @@ print(r.json())
 - El endpoint SDXL original (`Phase 3`) no se toca — este es un endpoint separado
 - El cold start de esta imagen será más lento (~3-5 min) por el tamaño de la imagen
 - FlashBoot reduce el cold start en jobs subsecuentes
+
+Build test
